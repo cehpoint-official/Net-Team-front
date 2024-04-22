@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500394631092",
+    "project_id": "net-team-ec6dd",
+    "storage_bucket": "net-team-ec6dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500394631092:android:10168848eed231ae4d1ce1",
+        "android_client_info": {
+          "package_name": "com.banuba.flutter.flutter_ve_sdk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSc0m3z-Vd4dgLBBkuu0bGudNljE-un2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

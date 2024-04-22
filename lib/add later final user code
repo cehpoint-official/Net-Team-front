@@ -1,0 +1,4 @@
+ final user = <String, dynamic>{
+                      "password": password,
+                      "email": email
+                    };
